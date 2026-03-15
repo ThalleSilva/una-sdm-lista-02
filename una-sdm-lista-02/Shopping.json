@@ -1,0 +1,18 @@
+{
+  "nome": "Shopping Central",
+  "cidade": "Belo Horizonte",
+  "lojas": [
+    {
+      "id": 1,
+      "nome": "Loja Tech",
+      "categoria": "Eletrônicos",
+      "andar": 1
+    },
+    {
+      "id": 2,
+      "nome": "Moda Style",
+      "categoria": "Roupas",
+      "andar": 2
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "deposito": "Deposito de Ferramentas",
+  "localizacao": "Belo Horizonte",
+  "ferramentas": [
+    {
+      "id": 1,
+      "nome": "Martelo",
+      "quantidade": 50,
+      "preco": 35.90
+    },
+    {
+      "id": 2,
+      "nome": "Chave de Fenda",
+      "quantidade": 80,
+      "preco": 12.50
+    }
+  ]
+}

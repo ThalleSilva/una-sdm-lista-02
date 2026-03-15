@@ -1,0 +1,20 @@
+{
+  "nome": "Universidade de Ensino",
+  "cidade": "Belo Horizonte",
+  "faculdades": [
+    {
+      "nome": "Engenharia",
+      "cursos": [
+        "Engenharia Civil",
+        "Engenharia Mecânica"
+      ]
+    },
+    {
+      "nome": "Computação",
+      "cursos": [
+        "Ciência da Computação",
+        "Sistemas de Informação"
+      ]
+    }
+  ]
+}
