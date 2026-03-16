@@ -12,3 +12,5 @@ public class Deposito
     public string Localizacao { get; set; }
     public List<Ferramenta> Ferramentas { get; set; }
 }
+
+.
